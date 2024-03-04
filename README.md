@@ -68,15 +68,18 @@
   `$y = &$x;  // $xのアドレスを代入`  
 
 ## 参考URL
-[VSCodeでPHPの構文チェックとフォーマットを自動化する](https://e-joint.jp/blog/2237)
+- [VSCodeでPHPの構文チェックとフォーマットを自動化する](https://e-joint.jp/blog/2237)
+- [PHPマニュアル](https://www.php.net/manual/ja/)
 
 ## サンプルのロカール環境表示
-[chap01](http://localhost/selfphp/chap01/)   
-[chap01#practice](http://localhost/selfphp/chap01/practice)   
-[chap02](http://localhost/selfphp/chap02/)   
-[chap02#practice](http://localhost/selfphp/chap02/practice)   
-[chap03](http://localhost/selfphp/chap03/)   
-[chap03#practice](http://localhost/selfphp/chap03/practice)   
-[chap04](http://localhost/selfphp/chap04/)   
-[chap04#practice](http://localhost/selfphp/chap04/practice)   
+- [chap01](http://localhost/selfphp/chap01/)   
+- [chap01#practice](http://localhost/selfphp/chap01/practice)   
+- [chap02](http://localhost/selfphp/chap02/)   
+- [chap02#practice](http://localhost/selfphp/chap02/practice)   
+- [chap03](http://localhost/selfphp/chap03/)   
+- [chap03#practice](http://localhost/selfphp/chap03/practice)   
+- [chap04](http://localhost/selfphp/chap04/)   
+- [chap04#practice](http://localhost/selfphp/chap04/practice)   
+- [chap05](http://localhost/selfphp/chap05/)   
+- [chap05#practice](http://localhost/selfphp/chap05/practice)   
 
