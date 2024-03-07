@@ -82,4 +82,6 @@
 - [chap04#practice](http://localhost/selfphp/chap04/practice)   
 - [chap05](http://localhost/selfphp/chap05/)   
 - [chap05#practice](http://localhost/selfphp/chap05/practice)   
+- [chap06](http://localhost/selfphp/chap06/)   
+- [chap06#practice](http://localhost/selfphp/chap06/practice)   
 
