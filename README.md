@@ -67,6 +67,13 @@
   `$x = 1;`  
   `$y = &$x;  // $xのアドレスを代入`  
 
+## Composer
+- Composer経由で提供されるパッケージは、Packagist(https://packagist.org/)から確認が可能。
+- Guzzleをインストール
+  - `composer require guzzlehttp/guzzle "~7.3.0"`
+- composer.jsonを編集した場合、以下のコマンドを実行することで、ライブラリの更新を行ってくれる
+  - `composer update`
+
 ## 参考URL
 - [VSCodeでPHPの構文チェックとフォーマットを自動化する](https://e-joint.jp/blog/2237)
 - [PHPマニュアル](https://www.php.net/manual/ja/)
