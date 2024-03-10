@@ -91,4 +91,8 @@
 - [chap05#practice](http://localhost/selfphp/chap05/practice)   
 - [chap06](http://localhost/selfphp/chap06/)   
 - [chap06#practice](http://localhost/selfphp/chap06/practice)   
+- [chap07](http://localhost/selfphp/chap07/)   
+- [chap07#practice](http://localhost/selfphp/chap07/practice)   
+- [chap08](http://localhost/selfphp/chap08/)   
+- [chap08#practice](http://localhost/selfphp/chap08/practice)   
 
