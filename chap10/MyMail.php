@@ -16,6 +16,16 @@ class MyMail
         return $this->headers[$name];
     }
 
+    public function __isset($name): bool
+    {
+        return isset($this->headers[$name]);
+    }
+
+    public function __unset($name): void
+    {
+        unset($this->headers[$name]);
+    }
+
     public function send(): void
     {
         $others = '';
