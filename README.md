@@ -91,6 +91,11 @@
   - `INSERT INTO member (nam, old, enter) VALUES ('佐藤和夫', 40, '2021-05-07');`
   - `INSERT INTO member VALUES (5, '山本和美', '女', 20, '2021-05-11', NULL);`
 
+## ドキュメントの生成
+- [phpDoc](https://phpdoc.org/)  
+  - `wget https://phpdoc.org/phpDocumentor.phar`  
+  - `chmod +x phpDocumentor.phar`
+  - `php phpDocumentor.phar -d doc -t out`
 
 ## 参考URL
 - [VSCodeでPHPの構文チェックとフォーマットを自動化する](https://e-joint.jp/blog/2237)

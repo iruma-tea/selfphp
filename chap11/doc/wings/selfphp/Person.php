@@ -35,6 +35,7 @@ class Person
      */
     public function show(): string
     {
+        return "";
     }
 
     /**
@@ -43,5 +44,6 @@ class Person
      */
     public function __toString(): string
     {
+        return "";
     }
 }
